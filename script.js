@@ -42,7 +42,7 @@ async function generateResponse() {
         
     } catch (error) {
         console.error('Error generating response:', error);
-        emailResponseField.value = 'Error: Could not generate response. Please check if the backend server is running.';
+        emailResponseField.value = 'Error: Could not generate response, backend server is running slow. Try again';
         showNotification('Failed to generate response. Please try again.', 'error');
     } finally {
         // Reset UI state
