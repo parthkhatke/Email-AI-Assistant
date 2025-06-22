@@ -5,7 +5,9 @@ A web-based application that uses **Google Gemini API** to generate professional
 ---
 
 ## 🌐 Live Demo
-👉 Live Deployment Link -https://parthkhatke.github.io/Email-AI-Assistant/
+👉🏻 Live Deployment Link -https://parthkhatke.github.io/Email-AI-Assistant/
+
+👉🏻 Backend GitHub link - https://github.com/parthkhatke/Ai-email-assistant-backend
 
 ## 📸 Preview
 ![image](https://github.com/user-attachments/assets/23e606a8-da9c-43e5-a86c-c8a60079e32f)
@@ -34,6 +36,7 @@ A web-based application that uses **Google Gemini API** to generate professional
 - 🤖 Uses **Gemini AI** to analyze context and generate human-like email replies.
 - 🌐 Clean and responsive UI using HTML/CSS/JS.
 - ⚙️ Robust Spring Boot backend with error handling and environment variable configuration.
+- Multi-Language Support
 - ☁️ Deployed on **Render** using Docker.
 
 ---
